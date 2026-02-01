@@ -1,0 +1,11 @@
+# Ignore IntelliJ/PyCharm/WebStorm configuration files
+.idea/
+
+# ipynb cache
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+
+# itself
+.git/
