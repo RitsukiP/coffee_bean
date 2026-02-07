@@ -9,3 +9,6 @@ __pycache__/
 
 # itself
 .git/
+
+# macOS
+.DS_Store
